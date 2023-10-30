@@ -1,7 +1,7 @@
 How dealing with Outliers using various method, leads to the following outcomes:
                                 TN  FP  FN  TP
-Normal Model -     			    936 100 151 222
-Winsorization -      			936 100 152 221 
-Removing OL -      			    854 117 153 206
-Log Transform -     			934 102 165 208
-Imputation(med/mean)-   		939 097 155 218
+Normal Model -     			        936 100 151 222
+Winsorization -      			      936 100 152 221 
+Removing OL -      			        854 117 153 206
+Log Transform -     			      934 102 165 208
+Imputation(med/mean)-   		    939 097 155 218
